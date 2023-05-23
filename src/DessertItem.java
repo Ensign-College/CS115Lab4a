@@ -1,4 +1,2 @@
-public class DessertItem {
-	// Attributes
-
+abstract class DessertItem {
 }
