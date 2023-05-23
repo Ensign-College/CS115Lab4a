@@ -1,6 +1,6 @@
-/*Name: Ismatulla Mansurov
- * Date: 9/30/2020
- * Instructor: Jeffrey Light
+/*Name: 
+ * Date:
+ * Instructor: 
  * description: Super and sub classes
  */
 
